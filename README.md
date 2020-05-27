@@ -10,3 +10,5 @@ Automating repetitive tasks in linux
 - [create own custom commands](https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e)
 - [create own custom commands](https://www.geeksforgeeks.org/custom-commands-linux-terminal/)
 - [create own custom commands](https://www.youtube.com/watch?v=vNqjaoq_U7E)
+
+-> scripts estao no diretorio /usr/games
