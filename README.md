@@ -1,6 +1,10 @@
-# Automating-Task-Linux
-Automating repetitive tasks in linux
+# Content and challenges shell script
 
+## About
+
+
+![](/img/linux-bit.gif)
+<img src="/img/linux-bit.gif" />
 
 ##links
 
@@ -15,7 +19,3 @@ Automating repetitive tasks in linux
 
 
 -> scripts estao no diretorio /usr/games
-
-<style>
-body {background-color: powderblue;}
-</style>
