@@ -15,3 +15,7 @@ Automating repetitive tasks in linux
 
 
 -> scripts estao no diretorio /usr/games
+
+<style>
+body {background-color: powderblue;}
+</style>
