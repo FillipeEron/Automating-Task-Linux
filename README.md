@@ -2,9 +2,7 @@
 
 ## About
 
-
-![](/img/linux-bit.gif)
-<img src="/img/linux-bit.gif" />
+<img src="/img/linux-bit.gif" align="center"/>
 
 ##links
 
