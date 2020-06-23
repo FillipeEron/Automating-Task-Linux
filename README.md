@@ -1,6 +1,5 @@
 # Content and challenges shell script
 
-
 ![](/img/linux-bit.gif)
 
 ## About
